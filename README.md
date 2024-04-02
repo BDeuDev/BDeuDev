@@ -14,5 +14,5 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
 ## Technologies :
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c//scale-to-width-down/200?Typescript_logo_2020.svg" alt="Mechanicus">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/scale-to-width-down/200?Typescript_logo_2020.svg" alt="Mechanicus">
 </p>
