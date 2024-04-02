@@ -18,7 +18,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Mechanicus" width="75" height="75" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Mechanicus" width="75" height="75" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Mechanicus" width="75" height="75" ">
- <img src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*9pWUdYPAwCQoWdEnvZli4A.jpeg" alt="Mechanicus" width="75" height="75" ">
+ <img src="https://i.pinimg.com/564x/09/96/e0/0996e0223646744e53d78ba90131be07.jpg" alt="Mechanicus" width="75" height="75" ">
 </p>
 
 
