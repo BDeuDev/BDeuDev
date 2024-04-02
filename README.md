@@ -20,7 +20,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Mechanicus" width="100" height="100" ">
  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Mechanicus" width="100" height="100" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Mechanicus" width="100" height="100" ">
- <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="Mechanicus" width="100" height="100" ">
 </p>
 
 
