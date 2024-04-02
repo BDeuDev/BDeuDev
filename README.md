@@ -4,8 +4,8 @@
 
 My mind, synchronized with the Machine Spirit's neural network, is unwavering in the face of challenges. As technology shapes our world, I serve as the conduit between the organic and the mechanical, driving humanity forward into the digital age. 
 </p>
-<br>
-<br>
+<br></br>
+<br></br>
 ## Technologies :
 
 <p aling="center">
