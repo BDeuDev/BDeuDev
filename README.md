@@ -4,4 +4,4 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
 
 
 ![Mechanicus](https://static.wikia.nocookie.net/eswarhammer40k/images/4/4c/Adeptus_Mechanicus_Wallpaper_by_Kjiverx.jpg/revision/latest/scale-to-width-down/200?cb=20100405213013)
-![Imperium](https://static.wikia.nocookie.net/eswarhammer40k/images/8/84/Aguilaimperial.jpg/revision/latest?cb=20091021202018)
+![Imperium](https://static.wikia.nocookie.net/eswarhammer40k/images/8/50/Aguilaimperial.jpg/revision/latest?cb=20091021202018)
