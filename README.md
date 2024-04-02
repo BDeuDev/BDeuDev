@@ -1,6 +1,6 @@
 
 <p aling="center">
- # Lore
+ # LORE
  
  In the realm of Binary Code, I craft and maintain systems, algorithms, and applications with precision. Equipped with expert coding skills, I navigate both the arid back-end landscapes and the dynamic front-end realms with ease.
 
