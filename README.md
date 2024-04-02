@@ -18,6 +18,14 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Mechanicus" width="100" height="100" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Mechanicus" width="100" height="100" ">
 </p>
+<script>
+  const size = 100; // Define el tamaño deseado
 
+  // Selecciona todas las imágenes dentro del contenedor y asigna el tamaño definido
+  document.querySelectorAll('p img').forEach(img => {
+    img.width = size;
+    img.height = size;
+  });
+</script>
 
 
