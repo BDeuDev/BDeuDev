@@ -27,6 +27,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
 <h2>Tools</h2>
 <p aling="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Mechanicus" width="75" height="75""> 
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbCJ2tT1VmT8OGeLWpa87dyeKyJFXPn1w1zy3m8r5EQ&s" alt="Mechanicus" width="75" height="75""> 
 </p>
 
 
