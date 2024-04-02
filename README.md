@@ -5,12 +5,6 @@
 My mind, synchronized with the Machine Spirit's neural network, is unwavering in the face of challenges. As technology shapes our world, I serve as the conduit between the organic and the mechanical, driving humanity forward into the digital age. 
 </p>
 
-
-<p align="center">
-  <img src="https://static.wikia.nocookie.net/eswarhammer40k/images/4/4c/Adeptus_Mechanicus_Wallpaper_by_Kjiverx.jpg/revision/latest/scale-to-width-down/200?cb=20100405213013" alt="Mechanicus">
-</p>
-
-
 ## Technologies :
 
 <p aling="center">
@@ -21,6 +15,8 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Mechanicus" width="100" height="100" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Mechanicus" width="100" height="100" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="Mechanicus" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Mechanicus" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Mechanicus" width="100" height="100" ">
 </p>
 
 
