@@ -5,7 +5,7 @@
 My mind, synchronized with the Machine Spirit's neural network, is unwavering in the face of challenges. As technology shapes our world, I serve as the conduit between the organic and the mechanical, driving humanity forward into the digital age. 
 </p>
 <br>
-<h1>Backend</h1>
+<h1>Frontend</h1>
 <p aling="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Mechanicus" width="75" height="75""> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="75" height="75" ">
