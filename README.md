@@ -16,7 +16,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="Mechanicus" width="75" height="75" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="Mechanicus" width="75" height="75" ">
 </p>
-
+<br>
 ## Backend
 
 <p aling="center">
