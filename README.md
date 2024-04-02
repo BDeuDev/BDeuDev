@@ -15,12 +15,13 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
 
 <p aling="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Mechanicus" width="100" height="100""> 
- <img src="" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100" ">
 </p>
-<div align="center" style="margin-bottom: 20px;">
-  <img src="https://static.wikia.nocookie.net/eswarhammer40k/images/4/4c/Adeptus_Mechanicus_Wallpaper_by_Kjiverx.jpg/revision/latest/scale-to-width-down/200?cb=20100405213013" alt="Mechanicus" style="margin-right: 10px;">
-  <img src="otra-imagen.jpg" alt="Otra Imagen" style="margin-right: 10px;">
-  <!-- Agrega más imágenes aquí con el mismo estilo de margen -->
-</div>
+
+
 
