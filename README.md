@@ -17,6 +17,6 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Mechanicus" width="100" height="100">
 </p>
 <p align="center">
-  <img src="https://es.m.wikipedia.org/wiki/Archivo:React-icon.svg" alt="Mechanicus" width="100" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="100" height="100">
 </p>
 
