@@ -1,11 +1,11 @@
- # Lore🗺
+ # Lore
 <p aling="center">
  In the realm of Binary Code, I craft and maintain systems, algorithms, and applications with precision. Equipped with expert coding skills, I navigate both the arid back-end landscapes and the dynamic front-end realms with ease.
 
 My mind, synchronized with the Machine Spirit's neural network, is unwavering in the face of challenges. As technology shapes our world, I serve as the conduit between the organic and the mechanical, driving humanity forward into the digital age🚀. 
 </p>
 <br>
-<h2>Frontend🖌</h2>
+<h2>Frontend💡</h2>
 <p aling="center">
  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Mechanicus" width="75" height="75""> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="Mechanicus" width="75" height="75" ">
