@@ -22,6 +22,8 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Mechanicus" width="75" height="75" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" alt="Mechanicus" width="75" height="75" ">
  <img src="https://i.pinimg.com/564x/09/96/e0/0996e0223646744e53d78ba90131be07.jpg" alt="Mechanicus" width="75" height="75" ">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Mechanicus" width="75" height="75""> 
+ <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mechanicus" width="75" height="75""> 
 </p>
 <br>
 <h2>Tools🛠</h2>
@@ -29,8 +31,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/2048px-Git_icon.svg.png" alt="Mechanicus" width="75" height="75""> 
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" alt="Mechanicus" width="75" height="75""> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Mechanicus" width="75" height="75""> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Mechanicus" width="75" height="75""> 
- <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mechanicus" width="75" height="75""> 
+
  <img src="https://support.dbconvert.com/hc/article_attachments/360015342380/MySQLWorkbench.png" alt="Mechanicus" width="75" height="75""> 
  
 </p>
