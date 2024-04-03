@@ -30,7 +30,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" alt="Mechanicus" width="75" height="75""> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Mechanicus" width="75" height="75""> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Mechanicus" width="75" height="75""> 
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Antu_mysql-workbench.svg" alt="Mechanicus" width="75" height="75""> 
+ <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mechanicus" width="75" height="75""> 
  
 </p>
 
