@@ -32,6 +32,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/microsoft_visual_studio_code_macos_bigsur_icon_189957.png" alt="Mechanicus" width="75" height="75""> 
  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="Mechanicus" width="75" height="75""> 
  <img src="https://support.dbconvert.com/hc/article_attachments/360015342380/MySQLWorkbench.png" alt="Mechanicus" width="75" height="75""> 
+ <img src="https://iconape.com/wp-content/files/ja/89479/png/postman.png" alt="Mechanicus" width="75" height="75""> 
  
 </p>
 
