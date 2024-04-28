@@ -24,6 +24,7 @@ My mind, synchronized with the Machine Spirit's neural network, is unwavering in
  <img src="https://i.pinimg.com/564x/09/96/e0/0996e0223646744e53d78ba90131be07.jpg" alt="Mechanicus" width="75" height="75" ">
  <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="Mechanicus" width="75" height="75""> 
  <img src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" alt="Mechanicus" width="75" height="75""> 
+ <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Mechanicus" width="75" height="75"">
 </p>
 <br>
 <h2>Tools🛠</h2>
