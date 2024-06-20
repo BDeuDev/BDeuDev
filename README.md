@@ -4,9 +4,9 @@
 
 <div aling=center >
   
-  
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BDeuDev)](https://github.com/BDeuDev/github-readme-stats)
+ <a href="" >
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BDeuDev)](https://github.com/BDeuDev/github-readme-stats)
+ </a> 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BDeuDev)](https://github.com/BDeuDev/github-readme-stats)
   
 </div>
