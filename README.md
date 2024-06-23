@@ -1,6 +1,6 @@
 <div align=center>
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:e44d26,100:f16529&height=80&section=header&text=Hi%20Everyone!&fontSize=40&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:0B131A,100:0B131A&height=80&section=header&text=Hi%20Everyone!&fontSize=40&animation=fadeIn)
 
 <img src="https://media.tenor.com/WuOwfnsLcfYAAAAC/star-wars-obi-wan-kenobi.gif" />
 
