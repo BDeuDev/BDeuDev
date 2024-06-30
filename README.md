@@ -31,7 +31,7 @@
 
 <div align=center>
 
-## Langs and Tools 🐍
+## Langs and Tools 🧐
 
 | Languajes & Frameworks | Tools | Now I Learn |
 | --------------- | --------------- | --------------- |
