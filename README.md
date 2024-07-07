@@ -9,6 +9,11 @@
   
 ## About Me 😎
 
+<div aling=center>
+  I have a strong self-taught background with comprehensive experience throughout the entire software lifecycle. My focus includes QA, organization, UI/UX application, and client contact management.
+</div>
+
+
 </div>
 
 <div align=center>
